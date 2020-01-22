@@ -3,9 +3,8 @@
 1. install neovim  --> sudo apt-get install neovim
 2. set alias 
 
-alias vi="nvim"
-alias vim="nvim"
-
+    alias vi="nvim"
+    alias vim="nvim"
 
 3. generate the config file from here --> http://vim-bootstrap.com/
 
